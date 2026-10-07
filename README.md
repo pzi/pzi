@@ -1,4 +1,4 @@
-### I prove to computers that I am human by clicking motorcycles.
+### Clicks motorcycles to prove to computers that he's human.
 
 <!--
 **pzi/pzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
